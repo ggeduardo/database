@@ -8,7 +8,7 @@
       { "id": 1, "body": "some comment", "postId": 1 },
       { "id": 2, "body": "some comment", "postId": 1 }
     ],
-    "profile": {
+    "profile": [{
         "id": 1,
         "title": "Sarah Kortney",
         "img": "/assets/img/profile-pic-l.jpg",
@@ -17,6 +17,6 @@
         "surname":"Kortney",
         "password":"any password",
         "rol":"Executive Director"
-    }
+    }]
 
   }
