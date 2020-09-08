@@ -9,9 +9,15 @@
       { "id": 2, "body": "some comment", "postId": 1 }
     ],
     "profile": {
-      "name": "typicode"
-    },
-    "probando":{
-        "name": "qlq"
+        "id": 1,
+        "title": "Sarah Kortney",
+        "img": "/assets/img/profile-pic-l.jpg",
+        "date": "Last seen today 15:25",
+        //i added this data to test
+        "name": "Sarah ",
+        "surname":"Kortney",
+        "password":"any password",
+        "rol":"Executive Director"
     }
+
   }
